@@ -1,5 +1,7 @@
 ### ESJsonFormat-Xcode
-将JSON格式化输出为模型的属性　　　　个人活动范围>[Weibo-EnjoySR](http://weibo.com/EnjoySR)
+将JSON格式化输出为模型的属性　　　　前作者个人活动范围>[Weibo-EnjoySR](http://weibo.com/EnjoySR)
+
+
 版权不归我哟，添加了YYModel，JsonModel，本地plist的支持。觉得好用请点赞呢
 
 **写在之前的注意**
@@ -9,14 +11,14 @@
 > * **生成的 MJExtension 框架中objectClassInArray方法(类方法)**
 
 
-####怎么安装：
-
-方式1：下载-Xcode打开-Command+B-重启Xcode
-
-方式2：通过[Alcatraz](http://alcatraz.io/)安装，搜索 `ESJsonFormat`
-
-方式3：下载-解压plugin文件夹中zip到`~/Library/Application Support/Developer/Shared/Xcode/Plug-ins`-重启Xcode
-
+<!--####怎么安装：-->
+<!---->
+<!--方式1：下载-Xcode打开-Command+B-重启Xcode-->
+<!---->
+<!--方式2：通过[Alcatraz](http://alcatraz.io/)安装，搜索 `ESJsonFormat`-->
+<!---->
+<!--方式3：下载-解压plugin文件夹中zip到`~/Library/Application Support/Developer/Shared/Xcode/Plug-ins`-重启Xcode-->
+<!---->
 
 ####怎么使用：
 
@@ -61,7 +63,7 @@ Window-ESJsonFormat-输入Json-Enter  **OR**  快捷键(Control+Shift+J)-输入J
 * 支持格式输出泛型(Xcode 7及之后) 
 
 ####Alcatraz
-* 支持 [Alcatraz](http://alcatraz.io/) ，请搜索 `ESJsonFormat`
+<!--* 支持 [Alcatraz](http://alcatraz.io/) ，请搜索 `ESJsonFormat`-->
 
 ![Screenshot](https://raw.githubusercontent.com/EnjoySR/ESJsonFormat-Xcode/master/ScreenShot/ScreenShot4.jpeg)
 
